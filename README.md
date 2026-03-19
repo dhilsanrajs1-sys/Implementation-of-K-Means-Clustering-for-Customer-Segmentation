@@ -102,8 +102,5 @@ print("Results saved to 'customer_segments.csv'")
 <img width="1062" height="611" alt="image" src="https://github.com/user-attachments/assets/9fb40a3b-2f65-4ef7-87d9-08fbb4566918" />
 <img width="788" height="226" alt="image" src="https://github.com/user-attachments/assets/a20b3c30-985a-4705-9a86-60c347c36989" />
 
-
-
-
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
