@@ -97,10 +97,11 @@ print("Results saved to 'customer_segments.csv'")
 ```
 
 ## Output:
-<img width="702" height="168" alt="image" src="https://github.com/user-attachments/assets/d45230a7-7de8-41a4-988a-1b3bfd95a277" />
+<img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/3ea632d8-3f3e-489a-acdc-3365745c42e9" />
 <img width="1066" height="666" alt="image" src="https://github.com/user-attachments/assets/68839126-581c-48e1-bac6-eb5aaa2a4c51" />
-<img width="499" height="497" alt="image" src="https://github.com/user-attachments/assets/9e161e14-4b8d-40be-add3-b341607d8acb" />
-<img width="504" height="351" alt="image" src="https://github.com/user-attachments/assets/dcbcee67-1796-43b8-a22a-2522c9cad648" />
+<img width="1062" height="611" alt="image" src="https://github.com/user-attachments/assets/9fb40a3b-2f65-4ef7-87d9-08fbb4566918" />
+<img width="788" height="226" alt="image" src="https://github.com/user-attachments/assets/a20b3c30-985a-4705-9a86-60c347c36989" />
+
 
 
 
